@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/sukhominskiy/sukhominskiy/blob/main/assets/pixel-animation.gif)
 
 About me
 
